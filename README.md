@@ -82,8 +82,8 @@ Se trabajó con un dataset que contenía 11,000 muestras de audio transformadas 
 </p>
 
 <p float="left">
-  <img src="/imagenes/GRU-1.png" width="50%" />
-  <img src="/imagenes/GRU-2.png" width="50%" /> 
+  <img src="/imagenes/GRU-1.png" width="32%" />
+  <img src="/imagenes/GRU-2.png" width="32%" /> 
 </p>
 
 <p float="left">
