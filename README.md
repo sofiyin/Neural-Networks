@@ -76,21 +76,21 @@ Se trabajó con un dataset que contenía 11,000 muestras de audio transformadas 
 #### RNN vs. GRU vs. LSTM
 
 <p float="left">
-  <img src="/imagenes/RNN1.png" width="100" />
-  <img src="/imagenes/RNN2.png" width="100" /> 
-  <img src="/imagenes/RNN3.png" width="100" />
+  <img src="/imagenes/RNN1.png" width="32%" />
+  <img src="/imagenes/RNN2.png" width="32%" /> 
+  <img src="/imagenes/RNN3.png" width="32%" />
 </p>
 
 <p float="left">
-  <img src="/imagenes/GRU-1.png" width="100" />
-  <img src="/imagenes/GRU-2.png" width="100" /> 
+  <img src="/imagenes/GRU-1.png" width="50%" />
+  <img src="/imagenes/GRU-2.png" width="50%" /> 
 </p>
 
 <p float="left">
-  <img src="/imagenes/LSTM.png" width="90" />
-  <img src="/imagenes/LSTM-2.png" width="90" /> 
-  <img src="/imagenes/LSTM-3.png" width="90" />
-  <img src="/imagenes/LSTM-4.png" width="90" />
+  <img src="/imagenes/LSTM.png" width="25%" />
+  <img src="/imagenes/LSTM-2.png" width="25%" /> 
+  <img src="/imagenes/LSTM-3.png" width="25%" />
+  <img src="/imagenes/LSTM-4.png" width="25%" />
 </p>
 
 #### Matrices de Confusión
