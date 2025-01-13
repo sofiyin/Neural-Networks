@@ -1,5 +1,5 @@
 ## Preprocesamiento
-![Neutral Info](imagenes/neutral_info.png)
+![Neutral Info](imagenes/neural_info.png)
 - **Audio a Vectores de Características:**  
   Se usó la librería **Librosa** para extraer los primeros 20 MFCC (Coeficientes Cepstrales en las Frecuencias de Mel) de cada archivo de audio, que representan las características sonoras más relevantes.  
 - **Espectrogramas Mel:**  
